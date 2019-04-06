@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kill
+  - checkpoint
+  - ground
+  - enemy1
+  - cannonball
+  - bullet
+  - enemybullet
+  - energyUp
+  - levelEnd
+  - bossBullet
+  - closedDoor
+  - boss
+  - spawner
+  - goBackToMenu
+  - secretExit
+  - upgradedBullet
+  - powerUp
+  - lifeUp
+  - collectable
+  - GameManager
+  - showPath
+  - door
+  - secretExitEnd
+  - platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - ground
+  - background
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
